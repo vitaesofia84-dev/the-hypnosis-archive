@@ -5,4 +5,5 @@
 # Hypnosis Archive
 Welcome to my library of scientific hypnosis.
 ## Articles
-- [[articles/art or magic\|articles/Art or Magic]] — On the nature of hypnosis between art and science
+- [art or magic](articulos/Art%20or%20Magic.md)
+- [agency anchors](agency%20anchors.md)
