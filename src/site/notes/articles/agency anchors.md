@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/articles/agency-anchors/","dg-note-properties":{}}
 ---
 
-A hypnotist working ethically can set phrases that protect your sense of self:
+
+hypnotist working ethically can set phrases that protect your sense of self:
 
 - _“You are the owner of your own mind. I only suggest paths.”_
 - _“Your unconscious keeps what matters to you safe.”_

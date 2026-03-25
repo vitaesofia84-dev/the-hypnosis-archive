@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/articles/art-or-magic/","dg-note-properties":{}}
 ---
 
-
 At first, I thought hypnosis wasn't scientific, but rather a kind of magic.  
 It didn't seem to have clear rules; it just… happened.
 
