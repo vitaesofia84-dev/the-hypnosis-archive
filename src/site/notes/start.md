@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/start/","tags":["gardenEntry"],"dg-note-properties":{}}
+---
+
+# Hypnosis Archive
+Welcome to my library of scientific hypnosis.
+## Articles
+- [[articles/art or magic\|articles/Art or Magic]] — On the nature of hypnosis between art and science
